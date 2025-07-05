@@ -1,14 +1,10 @@
 # Hi, I'm Sokmeak 👋
 
-## 🚀 About Me
+🎓 I'm a 4rd-year IT student at the **Institute of Technology of Cambodia**, majoring in Information and Communication Engineering.
 
-🎓 I'm a 3rd-year IT student at the Institute of Technology of Cambodia, majoring in Information and Communication Engineering.
+💡 Passionate about **full-stack development**, **mobile apps**, and **networking systems**. I enjoy turning real-world problems into digital solutions.
 
-💻 I'm passionate about **web development**, **mobile app development**, and **networking**.
-
-🌱 Currently learning **Flutter**, **Laravel**, and **Swift** to expand my skills in both frontend and backend development.
-
-🎯 My goal is to create impactful tech solutions that solve real-world problems, especially for students and local communities.
+🌱 Currently learning **NestJs**, **ReactJs**, and **MogoDB** — and always exploring new technologies.
 
 ---
 
@@ -41,5 +37,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sokmeak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> “Build something you're proud of.”  
+Thanks for visiting my profile! 🙏
+
 
