@@ -1,6 +1,6 @@
 # Hi, I'm Sokmeak 👋
 
-🎓 I'm a 4rd-year IT student at the **Institute of Technology of Cambodia**, majoring in Information and Communication Engineering.
+🎓 I'm a 4th-year IT student at the **Institute of Technology of Cambodia**, majoring in Information and Communication Engineering.
 
 💡 Passionate about **full-stack development**, **mobile apps**, and **networking systems**. I enjoy turning real-world problems into digital solutions.
 
